@@ -21,7 +21,7 @@
   "dependencies": {
     "@elastic/elasticsearch": "^7.1.0",
     "elasticsearch": "^16.1.1",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "morgan": "^1.8.1",
     "rimraf": "^2.6.1"
   },
